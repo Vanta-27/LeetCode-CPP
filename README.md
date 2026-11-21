@@ -46,4 +46,12 @@ Leet Code CPP Solved Problem List.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
