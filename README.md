@@ -6,6 +6,7 @@ Leet Code CPP Solved Problem List.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ Leet Code CPP Solved Problem List.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -54,4 +56,8 @@ Leet Code CPP Solved Problem List.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
