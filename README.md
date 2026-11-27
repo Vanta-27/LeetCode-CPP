@@ -8,6 +8,7 @@ Leet Code CPP Solved Problem List.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,4 +68,8 @@ Leet Code CPP Solved Problem List.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vanta-27/LeetCode-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
